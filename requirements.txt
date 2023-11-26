@@ -64,3 +64,4 @@ wcwidth==0.2.5
 whitenoise==6.2.0
 wrapt==1.14.1
 zope.interface==5.4.0
+django-tailwind==3.6.0
